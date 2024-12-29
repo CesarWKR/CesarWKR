@@ -11,7 +11,7 @@ Telecommunications engineer with a deep passion for technology and innovation, d
 ### Skills
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 13px; align-items: center;">  
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">  
   <!-- Python -->  
   <div>  
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="72" height="30" alt="Python Badge" />  
