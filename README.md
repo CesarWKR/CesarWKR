@@ -1,4 +1,4 @@
-<div style="width: 500px; margin: 0 auto; text-align: center;">  
+<div style="width: 800px; margin: 0 auto; text-align: center;">  
 
   Hi 👋 My name is César  
   ======================  
