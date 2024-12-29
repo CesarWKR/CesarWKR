@@ -1,21 +1,21 @@
-<div style="width: 600px; margin: 0 auto; text-align: center;">  
+<div style="width: 500px; margin: 0 auto; text-align: center;">  
 
   Hi 👋 My name is César  
   ======================  
 
-  <img src="Fondo.png" alt="Cesar's Banner" width="600" height="450"/>  
+  <img src="Fondo.png" alt="Cesar's Banner" width="500" height="450"/>  
 
-  <div style="text-align: left;">  
+  <div style="text-align: left; margin-top: 10px;">  
     <a href="https://www.linkedin.com/in/c%C3%A9sar-gonz%C3%A1lez-santoyo-b260a92b3/" target="_blank">  
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">  
     </a>  
   </div>  
 
-  <div style="text-align: justify;">  
+  <div style="text-align: justify; margin-top: 20px;">  
   Telecommunications engineer with a deep passion for technology and innovation, dedicated to continuous  
   learning and staying at the forefront of advancements in artificial intelligence, programming, and emerging technologies.  
   Experienced in analyzing and optimizing communication systems, with a strong foundation in software development and problem-solving.  
-  </div>
+  </div>  
 
   ### Skills   
 
