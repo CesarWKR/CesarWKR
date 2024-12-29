@@ -1,4 +1,3 @@
-<div style="width: 800px; margin: 0 auto; text-align: center;">  
 
   Hi 👋 My name is César  
   ======================  
@@ -34,5 +33,3 @@
   | PHP                                                                    | PostgreSQL                                                             | MySQL                                                                  |  
   |------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|  
   | <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width="150" height="40" alt="PHP Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP Icon" /> | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="150" height="40" alt="Postgres Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="30" alt="Postgres Icon" /> | <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="150" height="40" alt="MySQL Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="30" alt="MySQL Icon" /> |  
-
-</div>
