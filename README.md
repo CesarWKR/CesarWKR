@@ -12,9 +12,9 @@
   </div>  
 
   <div style="text-align: justify; margin-top: 20px;">  
-  Telecommunications engineer with a deep passion for technology and innovation, dedicated to continuous  
+  Telecommunications engineer with a deep passion for technology and innovation, dedicated to continuous <br> 
   learning and staying at the forefront of advancements in artificial intelligence, programming, and emerging technologies.  
-  Experienced in analyzing and optimizing communication systems, with a strong foundation in software development and problem-solving.  
+  Experienced <br> in analyzing and optimizing communication systems, with a strong foundation in software development and problem-solving.  
   </div>  
 
   ### Skills   
