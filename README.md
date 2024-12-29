@@ -3,7 +3,7 @@
   Hi 👋 My name is César  
   ======================  
 
-  <img src="Fondo.png" alt="Cesar's Banner" width="500" height="450"/>  
+  <img src="Fondo.png" alt="Cesar's Banner" width="700" height="450"/>  
 
   <div style="text-align: left; margin-top: 10px;">  
     <a href="https://www.linkedin.com/in/c%C3%A9sar-gonz%C3%A1lez-santoyo-b260a92b3/" target="_blank">  
@@ -13,8 +13,8 @@
 
   <div style="text-align: justify; margin-top: 20px;">  
   Telecommunications engineer with a deep passion for technology and innovation, dedicated to continuous <br> 
-  learning and staying at the forefront of advancements in artificial intelligence, programming, and emerging technologies.  
-  Experienced <br> in analyzing and optimizing communication systems, with a strong foundation in software development and problem-solving.  
+  learning and staying at the forefront of advancements in artificial intelligence, programming, and emerging <br> technologies.  
+  Experienced in analyzing and optimizing communication systems, with a strong foundation in software <br> development and problem-solving.  
   </div>  
 
   ### Skills   
