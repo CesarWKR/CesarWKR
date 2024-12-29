@@ -1,13 +1,23 @@
-Hi 👋 My name is César
-======================
+<div style="width: 600px; margin: 0 auto; text-align: center;">  
 
-<img src="Fondo.png" alt="Cesar's Banner" width="500" high="150"/>  
+Hi 👋 My name is César  
+======================  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-gonz%C3%A1lez-santoyo-b260a92b3/)
+<img src="Fondo.png" alt="Cesar's Banner" width="600" height="450"/>  
 
-Telecommunications engineer with a deep passion for technology and innovation, dedicated to continuous learning and staying at the forefront of advancements in artificial intelligence, programming, and emerging technologies. Experienced in analyzing and optimizing communication systems, with a strong foundation in software development and problem-solving.
+<div style="text-align: left;">  
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-gonz%C3%A1lez-santoyo-b260a92b3/" target="_blank">  
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">  
+  </a>  
+</div>  
 
-### Skills 
+<div style="text-align: justify;">  
+Telecommunications engineer with a deep passion for technology and innovation, dedicated to continuous  
+learning and staying at the forefront of advancements in artificial intelligence, programming, and emerging technologies.  
+Experienced in analyzing and optimizing communication systems, with a strong foundation in software development and problem-solving.  
+</div>
+
+### Skills   
 
 | Python                                                                 | TensorFlow                                                             | PyTorch                                                                |  
 |------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|  
@@ -23,4 +33,6 @@ Telecommunications engineer with a deep passion for technology and innovation, d
 
 | PHP                                                                    | PostgreSQL                                                             | MySQL                                                                  |  
 |------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|  
-| <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width="150" height="40" alt="PHP Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP Icon" /> | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="150" height="40" alt="Postgres Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="30" alt="Postgres Icon" /> | <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="150" height="40" alt="MySQL Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="30" alt="MySQL Icon" /> |
+| <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width="150" height="40" alt="PHP Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP Icon" /> | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="150" height="40" alt="Postgres Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="30" alt="Postgres Icon" /> | <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="150" height="40" alt="MySQL Badge" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="30" alt="MySQL Icon" /> |  
+
+</div>
